@@ -25,5 +25,3 @@ Prediction Layer
 PCOS Risk Output
 
 ---
-
-## Repository Structure
